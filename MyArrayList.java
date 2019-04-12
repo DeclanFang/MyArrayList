@@ -4,6 +4,7 @@ package com.declan.oo;
  * Try to rebuild Class ArrayList in JDK
  * @author Declan
  */
+
 public class MyArrayList {
     /**
      * The value is used for object storage.
