@@ -107,6 +107,6 @@ public class MyArrayList {
         MyArrayList list = new MyArrayList(2);
         list.add("aaa");
         list.add(1);
-        list.add("bbb");
+        list.add("bbb");   //test auto-extending
     }
 }
