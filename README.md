@@ -1,2 +1,2 @@
-# MyArrayList
-Rebuild the original ArrayList class in JDK, encapsulate it and test it. 
+# My Containers
+Rebuild common containers in JDK, encapsulate them and test them. 
